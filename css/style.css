@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  margin-left: 150px;
+  margin-top: 100px;
+}
+
+#btn {
+  padding: 10px 15px;
+  border: 2px solid orange;
+  font-size: 20px;
+  background-color: yellow;
+  color: red;
+  border-top-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.n {
+  display: flex;
+  padding: 12px 25px;
+  margin-bottom: 20px;
+  background-color: white;
+  color: black;
+}
+
+#on {
+  text-align: center;
+  width: 120px;
+  height: 80px;
+  background-color: orange;
+  color: red;
+  border: 5px double yellow;
+  margin-left: 35rem;
+}/*# sourceMappingURL=Style.css.map */
